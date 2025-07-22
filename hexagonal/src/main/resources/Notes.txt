@@ -1,0 +1,17 @@
+My service is built
+
+Not I am not supposed go inside it.
+
+its same like mac mini is built and you are
+
+building wire that connect to port and HP screen.
+or port and external hard drive.
+
+now while building you shouldnt be opening up your mac mini.
+
+JpaTaskRepository or JpaTaskRepositoryAdapter
+http://localhost:8080/h2-console
+
+Adapter layer should be as this as possible
+
+Ports are always interfaces
